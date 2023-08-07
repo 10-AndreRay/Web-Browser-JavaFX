@@ -9,11 +9,15 @@
 
 <p align="justify">
 Simples navegador web feito com o objeto WebView do JavaFX
+  <br>
+  
 Funcionalidades:
-  - Botão para acessar histórico
-  - Botão para voltar ao site anterior
-  - Botão para acessar o próximo site
-  - Atalhos para todas as funcionalidades acima
+  <br>
+  
+- Botão para acessar histórico
+- Botão para voltar ao site anterior
+- Botão para acessar o próximo site
+- Atalhos para todas as funcionalidades acima
   <br>
 </p>
 
